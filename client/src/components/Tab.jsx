@@ -1,4 +1,3 @@
-import React from "react";
 import { useSnapshot } from "valtio";
 import state from "../store";
 
@@ -16,7 +15,8 @@ const Tab = ({ tab, isFilterTab, isActiveTab, handleClick }) => {
         isFilterTab ? "rounded-full glamorphism" : "rounded-4"
       }`}
       onClick={handleClick}
-      style={activeStyles}>
+      style={activeStyles}
+    >
       <img
         src={tab.icon}
         alt={tab.name}
