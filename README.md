@@ -1,4 +1,4 @@
-### You can access the live project [here](https://t-shirt-customizer-rjqf.onrender.com){:target="_blank"}
+### You can access the live project [here](https://t-shirt-customizer-rjqf.onrender.com)
 
 # T-Shirt Customizer 🎨👕
 
@@ -28,7 +28,7 @@ Welcome to the T-Shirt Customizer app! 🚀 Express your unique style by designi
 
 - **React:** Building the user interface and managing the state of the application.
 
-- **Three.js:** Creating stunning 3D graphics to showcase the customized t-shirt designs.
+- **Three.js:** Creating stunning 3D graphics to showcase customized t-shirt designs.
 
 - **Framer Motion:** Adding smooth animations to enhance the user experience.
 
@@ -55,7 +55,7 @@ The client will be accessible at http://localhost:5173. You can still use the cu
 ### Option 2: Online Deployment
 
 Simply click on the following link to access the deployed version of the T-Shirt Customizer:
-[T-Shirt Customizer App](https://t-shirt-customizer-rjqf.onrender.com){:target="_blank"}
+[T-Shirt Customizer App](https://t-shirt-customizer-rjqf.onrender.com)
 
 This online version is already connected to the backend and ready for immediate use. No need to set up or run anything locally!
 
