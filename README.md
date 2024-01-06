@@ -1,4 +1,4 @@
-### You can access the live project [here](https://your-deployment-link.com](https://t-shirt-customizer-rjqf.onrender.com)https://t-shirt-customizer-rjqf.onrender.com)
+### You can access the live project [here](https://t-shirt-customizer-rjqf.onrender.com)
 
 # T-Shirt Customizer 🎨👕
 
@@ -55,6 +55,6 @@ The client will be accessible at http://localhost:5173. You can still use the cu
 ### Option 2: Online Deployment
 
 Simply click on the following link to access the deployed version of the T-Shirt Customizer:
-[T-Shirt Customizer App](https://your-deployment-link.com](https://t-shirt-customizer-rjqf.onrender.com)https://t-shirt-customizer-rjqf.onrender.com).
+[T-Shirt Customizer App](https://t-shirt-customizer-rjqf.onrender.com).
 
 This online version is already connected to the backend and ready for immediate use. No need to set up or run anything locally!
